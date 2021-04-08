@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to my profile!
+### I'm a student in Michigan studying computer science and planning to go to the University of Michigan.
 
-<!--
-**WindowsVistaisCool/WindowsVistaisCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages
 
-Here are some ideas to get you started:
+## Languages I know well
+* Python
+* Java
+* HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I am learning
+* JavaScript
+* CSS
+
+## Languages I want to learn
+* C
+* C++
+
+<details><summary>Click for discord</summary>
+<p>
+
+```
+dante best#2668
+```
+
+</p>
+</details>
