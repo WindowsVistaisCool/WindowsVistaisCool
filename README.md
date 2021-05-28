@@ -20,7 +20,7 @@
 <p>
 
 ```
-jerry best#2668
+boomer bonzo#2668
 ```
 
 </p>
