@@ -16,12 +16,7 @@
 * C
 * C++
 
-<details><summary>Click for discord</summary>
-<p>
-
-```
-boomer bonzo#2668
-```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsVistaisCool)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 </details>
