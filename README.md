@@ -1,22 +1,5 @@
-# Welcome to my profile!
-### I'm a student in Michigan studying computer science and planning to go to the University of Michigan.
+## Hi there 👋 I'm Kyle Rush, or WindowsVistaiscool!
+### I live in Michigan currently studying computer science.
+#### I know a variety of languages including Python, Java, and basic HTML. I'm currently learning JavaScript and CSS and I want to learn C/C++ and PHP.
 
-# Languages
-
-## Languages I know well
-* Python
-* Java
-* HTML
-
-## Languages I am learning
-* JavaScript
-* CSS
-
-## Languages I want to learn
-* C
-* C++
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsVistaisCool)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WindowsVistaisCool&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
